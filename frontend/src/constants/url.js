@@ -1,0 +1,1 @@
+export const API_URL='https://parking-management-system-hri4.onrender.com'
