@@ -65,7 +65,6 @@ npm run dev
 ```
 npm i dotenv
 ```
-**_NOTE:_**  An .env file is required for configuration. This file cannot be shared publicly but can be provided upon request.
 
 
 ### Frontend Setup
@@ -93,9 +92,3 @@ We welcome contributions from the community. To contribute, follow these steps:
 4. Push to the branch `git push origin feature-branch`.
 5. Open a pull request.
 
-## Made By 
- 
- * Rachit Sharma 
- * Kanchan Kharkwal
-
-For any inquiries or support, please contact us at [kharkwal.kanchan31@gmail.com](mailto:kharkwal.kanchan31@gmail.com).
